@@ -1,0 +1,57 @@
+{
+  "projects": [
+    {
+      "name": "projeto teste",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Vanessa",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 4000,
+      "services": [
+        {
+          "name": "desenvolvimento mobile",
+          "cost": "1000",
+          "description": "app mobile",
+          "id": "c7c4d2d2-aefc-4af5-a428-96f9bd3047bf"
+        },
+        {
+          "name": "monitoramento",
+          "cost": "3000",
+          "id": "44d69421-a420-40a8-b50c-f00003aefe8e",
+          "description": "aasda"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Front-end"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
